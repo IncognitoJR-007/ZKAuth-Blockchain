@@ -24,14 +24,18 @@ This project provides a secure, blockchain-based authentication system using zer
    ```bash
    pip install -r requirements.txt
 
-3. **Run the Backend:**
+3. **Initialize the Database:**
+   ````bash
+   python backend/init_db.py
+
+4. **Run the Backend:**
    ```bash
    python backend/auth.py
 
-4. **Open the Frontend:**
+5. **Open the Frontend:**
 • Open `frontend/index.html` in your web browser.
 
-5. **Use the Application:**
+6. **Use the Application:**
 • Enter your `username` and `private key`.
 
 • Click `Start Game` to generate a proof
