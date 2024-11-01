@@ -17,8 +17,8 @@ This project provides a secure, blockchain-based authentication system using zer
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/IncognitoJR-007/zkp-auth-chain.git
-   cd zkp-auth-chain
+   git clone https://github.com/IncognitoJR-007/ZKAuth-Blockchain.git
+   cd ZKAuth-Blockchain
 
 2. **Install Dependencies (if using Python): Create a `requirements.txt` (if you have dependencies) and run:**
    ```bash
